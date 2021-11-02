@@ -7,13 +7,13 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js + Notion',
-  domain: 'dotbraind.com',
+  name: 'Pepper Attack',
+  domain: 'https://nextjs-notion-kappa.vercel.app/',
   author: 'Naut Hnil',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Next.js + Notion',
+  socialImageTitle: 'Pepper Attack',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
