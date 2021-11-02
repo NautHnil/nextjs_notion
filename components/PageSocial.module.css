@@ -86,6 +86,13 @@
   border-color: #2795e9;
 }
 
+.discord .actionBgPane {
+  background: #404eed;
+}
+.discord:hover {
+  border-color: #404eed;
+}
+
 .linkedin .actionBgPane {
   background: #0077b5;
 }
