@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Pepper Attack',
-  domain: 'https://nextjs-notion-kappa.vercel.app/',
+  domain: 'nextjs-notion-kappa.vercel.app',
   author: 'Naut Hnil',
 
   // open graph metadata (optional)
